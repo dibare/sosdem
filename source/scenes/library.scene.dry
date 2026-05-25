@@ -355,7 +355,7 @@ if (Q.sapd_formed && Q.sapd_r) {
 data = data.concat([
     {
         "id": "spd",
-        "legend": "SPD",
+        "legend": "SHP",
         "name": "SPD",
         "seats": Q.spd_r*5,
     },
